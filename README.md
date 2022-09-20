@@ -26,4 +26,4 @@ A Frontend Developer works for Bytedance at Hangzhou China.
 [![Zhihu](https://img.shields.io/badge/Zhihu-@XGHeaven-0084FF?style=flat-square&logo=zhihu)](https://zhihu.com/people/XGHeaven)
 [![Twitter](https://img.shields.io/badge/Twitter-@XGHeaven-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/XGHeaven)
 [![Facebook](https://img.shields.io/badge/Facebook-@XGHeaven-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100009593685776)
-[![Steam](https://img.shields.io/badge/Facebook-@XGHeaven-000000?style=flat-square&logo=facebook)](https://steamcommunity.com/id/xgheaven/)
+[![Steam](https://img.shields.io/badge/Steam-@XGHeaven-000000?style=flat-square&logo=steam)](https://steamcommunity.com/id/xgheaven/)
