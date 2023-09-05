@@ -2,7 +2,11 @@
 
 A Frontend Developer works for Bytedance at Hangzhou China.
 
-[![XGHeaven's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgheaven)](https://github.com/anuraghazra/github-readme-stats)
+![profile](https://github-profile-trophy.vercel.app/?username=XGHeaven&column=-1)
+
+---
+
+<!--[![XGHeaven's GitHub stats](https://github-readme-stats.vercel.app/api?username=xgheaven)](https://github.com/anuraghazra/github-readme-stats)-->
 
 #### About my name
 
@@ -17,6 +21,7 @@ A Frontend Developer works for Bytedance at Hangzhou China.
   ![Minecraft](https://img.shields.io/badge/-Minecraft-blue?style=flat-square)
   ![DSP](https://img.shields.io/badge/-DSP-blue?style=flat-square)
 - 💻 **Computer** Hardware or Software
+- **Program Language** like JavaScript VM or others
 
 #### Where you can find me
 
