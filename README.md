@@ -1,6 +1,6 @@
 ### Hi, I'm XGHeaven
 
-A Frontend Developer works for Bytedance at Hangzhou China.
+A frontend developer works for Alibaba at Hangzhou China.
 
 ![profile](https://github-profile-trophy.vercel.app/?username=XGHeaven&column=-1)
 
@@ -11,8 +11,8 @@ A Frontend Developer works for Bytedance at Hangzhou China.
 #### About my name
 
 - **X** represent for my last name
-- **G** represent for Game
-- **Heaven** is heaven
+- **G** represent for `Game`
+- **Heaven** is `heaven`
 
 #### What I love
 
